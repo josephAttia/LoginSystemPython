@@ -6,6 +6,7 @@ An awesome python project that will make you love logging in!
 2. Download
 3. Have fun
 
+Side Note: This is a joke, don't acually use it :)
 
 ## Result
 [![WatchTheVideo](https://i9.ytimg.com/vi/EH3miwKdxas/mq2.jpg?sqp=CKji9_gF&rs=AOn4CLAPdBqz4q_Qdwnxr5X_9upz_Vtwbg)](https://youtu.be/EH3miwKdxas)
